@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+
+# Data files
+data/data.json
+
+# Template files
+template/
+
+# Output files
+output/
+output/certificates/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
